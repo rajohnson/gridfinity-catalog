@@ -33,6 +33,11 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) - STL, (1x1 - 5x5), 15 variants.
 * [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) - STL, (1x1 - 7x7), 13 variants.
 * [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) - STL, 1x4.
+* [Ender 3 Pro and V2 Baseplate](https://www.thingiverse.com/thing:5393982) - STL, 2x1.
+* [Power Ledge (Ender 3)](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) - STL, 2x1.
+* [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) - STL, 1x1.
+* [Holder for Voron printers (2020 extrusion)](https://www.printables.com/model/175108-gridfinity-holder-for-voron-printers-2020-extrusio) - STL & F3D, 1x1.
+* [CR10-CR10S Printer-Mounted Baseplate](https://thangs.com/designer/cynical89/3d-model/CR10-CR10S%2520%2523Gridfinity%2520Printer-Mounted%2520Baseplate-61213) - STL, 1x1.
 
 # Blocks
 
@@ -86,6 +91,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) - STL, 1x1, 4 variants.
 * [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) - STL, 1x3.
 * [Window Divider Bin](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Window%20Divider%20Bin-60754) - STL, 1x2 - 5 variants.
+* [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265)
 
 # Everything Else
 
