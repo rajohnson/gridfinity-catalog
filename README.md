@@ -91,7 +91,7 @@ In July of 2022, Zach published a follow-on video to highlight a plethora of com
 * [Vase Mode Single Box](https://thangs.com/designer/LittleHobbyShop/3d-model/%23gridfinity%20Vase%20Mode%20Single%20Box-65828) - STL, 1x1, 4 variants.
 * [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) - STL, 1x3.
 * [Window Divider Bin](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Window%20Divider%20Bin-60754) - STL, 1x2 - 5 variants.
-* [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265)
+* [Mintion Beagle Cam Mount](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Mintion%2520Beagle%2520Cam%2520Mount-174265) - STL, 1x1.
 
 # Everything Else
 
